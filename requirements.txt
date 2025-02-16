@@ -1,0 +1,11 @@
+pandas
+python-dotenv
+openai
+numpy
+plotly
+dask
+python-decouple
+pyarrow
+pinecone-client
+tiktoken
+requests 
